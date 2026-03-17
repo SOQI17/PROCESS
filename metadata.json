@@ -1,0 +1,7 @@
+{
+  "name": "Process organizer",
+  "description": "Professional process discovery and BPMN 2.0 diagram generator using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
